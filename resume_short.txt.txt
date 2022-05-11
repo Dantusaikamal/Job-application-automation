@@ -1,0 +1,100 @@
+Dantu Venkata Sai Kamal
+
+404, Brundavan Homes,
+Udyog Nagar, Badangpet,
+Hyderabad-58, Telangana
+
++91 9177114722
+
+dantusaikamal@gmail.com
+
+
+# WORK EXPERIENCE
+
+## Google DSC Lead’21, Intern, Hyderabad, Aug’2021 – Present
+
+• Conducted hands-on workshops and sessions on Web Development, Docker, Kotlin, Kubernetes, Cloud, Git.
+
+• Part of 250 students from India that were selected as Google Developer Students Clubs lead in 2021. 
+
+• Established a technical community in the college and trained multiple people to lead the community.
+
+• Built various open-sourced projects and encouraged various students to contribute to the projects.
+
+## Full Stack Developer, Intern, Hyderabad, Nov’2020 – July'2021
+
+• Led the Development team of a Start-up that focuses on Electric vehicle charging stations and smart energy meters.
+
+• Built cross platform scalable mobile applications using flutter and deployed the data pipelines on AWS EC2, and Azure
+instances. 
+
+• Designed UI wireframes for the applications using Figma and also documentation for the applications. 
+
+• Effectively managed projects from start to finish.
+
+• Improved the response time of applications by over 800 milliseconds, using advanced frameworks, data structures, 
+caching mechanismand optimized code in order to reduce the number of queries to the database.
+
+
+# EDUCATION
+
+Bharat Institute of Engineering and Technology
+B.Tech. in Computer Science , GPA 8.0/10 , Hyderabad, 2019-2023
+
+# Projects: 
+
+• Leaf Disease Identification:
+Built a cross platform mobile application using Flutter and TensorFlow that uses Machine Learning to detect 30+
+diseases with an accuracy of 97.53%. The ML model is trained with a dataset of over 6.5 Lakh images and is integrated 
+with an IBM Watson chatbot that can answer over 60 common questions on agriculture. There is also a language 
+translation module that let’s a farmer use the application in their native language. 
+
+• Telecom Churn Analysis using IBM AutoAI and Watson ML:
+Developed a Machine Learning Model to predict customer churn in Telecommunication industry using Regression
+techniques, XGBClassifier. By changing Regularization Parameter to 0.6, ended up obtaining an accuracy of 82%. 
+Written a Research Paper for the same.
+
+• Object Detection using Tensorflow.js:
+Developed an object detection model using Tensorflow.js. I integrated the model into a web application developed 
+using JavaScript to detect the object in real-time, using the live camera feed. The model can detect over 80 real
+objects.
+
+• Movie recommendation system:
+Developed a Machine Learning Model using Pandas, Scikit learn, TfidfVectorizer that recommends movies to the users 
+based on their past history. The content-based recommendation system has been trained with 50,000 rows of data. 
+Similar models are being used in Amazon, Netflix, LinkedIn, Spotify and many more applications.
+
+• Semantic Editing using StyleGAN :
+A Style-Based Generator Architecture for Generative Adversarial Networks for editing hair attributes on real faces built 
+using TensorFlow, NumPy, Matplotlib, StyleGAN, Keras, and eval_js. Also optimized the GPU usage for training and 
+testing the model by using different encoding optimizer functions.
+
+• Pizza delivery Website :
+Developed a responsive website using PHP and Laravel for a client in United Kingdom and deployed the web application 
+in Heroku. Secured the authentication system and API end points for better security. Also integrated Razorpay payment 
+gateway for making payments through the application. Used caching for fast performance of Website and for performing 
+heavy tasks asynchronously. Integrated Third Party APIs for various tasks. 
+
+# ACHIEVEMENTS
+• Selected as IBM Z student among 200 students around the world.
+• Secured 1
+st place in Start-up idea & Business prototype competition conducted by Institutions Innovative Council, 
+which is an initiative of Ministry of Human Resource Development, India.
+• Secured 1
+st place in college Hackathon for the project of Agro-drone.
+• AWS Machine Learning Scholarship Recipient 2021.
+• Invited to attend GitHub Field Day India 2021, which is a conference of 150 students from India and was the only attendee 
+from Telangana.
+• Only team consisting of freshman year students entirely to qualify for national round in Smart Indian Hackathon from 
+Hyderabad with more than 1.6 Lakhs of students.
+• Finalist for Hackoverflow 4.0 Hackathon and stood In top 15 out of 5000 teams.
+• Finalist for Innerve 6.0 Hackathon, which is India’s largest student run hackathon and stood In top 10 out of 800 teams.
+• Semi-finalist in Eureka! 2021, which is the largest business model competition in Asia.
+
+# Papers and Conferences: 
+• Dantu Sai Kamal. " Event Management System" Research Gate (January 2022)
+• Dantu Sai Kamal. " Semantic editing using Generative Adversarial Networks and Deep Learning." Research Gate 
+(December 2021)
+• Dantu Sai Kamal. " Telecom user churn analysis using Machine Learning & IBM AutoAI." Research Gate (September 2021)
+• Dantu Sai Kamal. " Student Report Card Management using C++" Research Gate (February 2021
+
